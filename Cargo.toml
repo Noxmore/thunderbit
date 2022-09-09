@@ -2,6 +2,14 @@
 name = "thunderbit"
 version = "0.0.0"
 edition = "2021"
+authors = [ "Noxmore <noxmore@corrupteduser.com>" ]
+discription = "Pixel-art game engine currently in development, just reserving this so nobody takes it before i'm ready to publish."
+license = "MIT"
+keywords = ["game", "engine"]
+repository = "https://github.com/Noxmore/thunderbit.git"
+homepage = "https://github.com/Noxmore/thunderbit"
+documentation = "https://docs.rs/thunderbit"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
