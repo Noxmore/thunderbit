@@ -5,9 +5,8 @@ edition = "2021"
 authors = [ "Noxmore <n@noxmore.dev>" ]
 description = "Discontinued project"
 license = "MIT"
-repository = "https://github.com/Noxmore/thunderbit.git"
-homepage = "https://github.com/Noxmore/thunderbit"
+repository = "https://github.com/Noxmore/thunderbit"
 documentation = "https://docs.rs/thunderbit"
-readme = "README.md"
+readme = "readme.md"
 
 [dependencies]
