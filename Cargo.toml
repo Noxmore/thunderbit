@@ -1,16 +1,13 @@
 [package]
 name = "thunderbit"
-version = "0.0.0"
+version = "0.0.1"
 edition = "2021"
-authors = [ "Noxmore <noxmore@corrupteduser.com>" ]
-description = "Pixel-art game engine that was in development. If anyone wants this name before i find some other use for it, just tell me and you can have it."
+authors = [ "Noxmore <n@noxmore.dev>" ]
+description = "Discontinued project"
 license = "MIT"
-keywords = ["game", "engine"]
 repository = "https://github.com/Noxmore/thunderbit.git"
 homepage = "https://github.com/Noxmore/thunderbit"
 documentation = "https://docs.rs/thunderbit"
 readme = "README.md"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]

@@ -1,1 +1,3 @@
-Pixel-art game engine that was in development. If anyone wants this name before i find some other use for it, just tell me and you can have it.
+Discontinued project.
+
+Willing to transfer ownership of the crate to anyone who asks.
